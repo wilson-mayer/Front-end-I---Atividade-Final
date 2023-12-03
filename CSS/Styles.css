@@ -70,7 +70,7 @@ nav {
     transition: all 0.5s;
     cursor: pointer;
     font-size: 20px;
-    color: white;
+    color:#84817a;
 }
 
 .nav-link:active {
@@ -83,6 +83,10 @@ nav {
     color: darkgray;
 }
 
+.color-nav {
+    color:white;
+    
+}
 
 .color {
     color:#84817a
